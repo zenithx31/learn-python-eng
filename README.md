@@ -28,5 +28,5 @@ It covers everything from basic syntax to essential features, organized by topic
 
 ## 📎 License
 
-The content in this repository is organized for **personal learning purposes**,  
-and you're free to use it as a reference. However, if you redistribute or share the content publicly (e.g., on blogs or in lectures), please make sure to include proper attribution.
+The content in this repository is organized for **personal learning purposes**, and you're free to use it as a reference.<br>
+However, if you redistribute or share the content publicly (e.g., on blogs or in lectures), please make sure to include proper attribution.
