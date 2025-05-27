@@ -20,6 +20,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [List Types](https://github.com/zenithx31/learn-python-eng/blob/main/list_types.md)
 - [Tuple Types](https://github.com/zenithx31/learn-python-eng/blob/main/tuple_types.md)
 - [Dictionary Types](https://github.com/zenithx31/learn-python-eng/blob/main/dictionary_types.md)
+- [Set Types](https://github.com/zenithx31/learn-python-eng/blob/main/set_types.md)
 
 ---
 
