@@ -21,6 +21,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Tuple Types](https://github.com/zenithx31/learn-python-eng/blob/main/tuple_types.md)
 - [Dictionary Types](https://github.com/zenithx31/learn-python-eng/blob/main/dictionary_types.md)
 - [Set Types](https://github.com/zenithx31/learn-python-eng/blob/main/set_types.md)
+- [Boolean Types](https://github.com/zenithx31/learn-python-eng/blob/main/boolean_types.md)
 
 ---
 
