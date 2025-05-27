@@ -22,6 +22,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Dictionary Types](https://github.com/zenithx31/learn-python-eng/blob/main/dictionary_types.md)
 - [Set Types](https://github.com/zenithx31/learn-python-eng/blob/main/set_types.md)
 - [Boolean Types](https://github.com/zenithx31/learn-python-eng/blob/main/boolean_types.md)
+- [Variables](https://github.com/zenithx31/learn-python-eng/blob/main/variables.md)
 
 ---
 
