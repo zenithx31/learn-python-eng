@@ -18,6 +18,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Numeric Types](https://github.com/zenithx31/learn-python-eng/blob/main/numeric_types.md)  
 - [String Types](https://github.com/zenithx31/learn-python-eng/blob/main/string_types.md)
 - [List Types](https://github.com/zenithx31/learn-python-eng/blob/main/list_types.md)
+- [Tuple Types](https://github.com/zenithx31/learn-python-eng/blob/main/tuple_types.md)
 
 ---
 
