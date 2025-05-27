@@ -1,6 +1,6 @@
-# [ Python ] Summary of Python's Number Data Types
+# Python Numeric Types
 
-## 📚 Number Data Types
+## 📚 Numeric Types
 
 ---
 
