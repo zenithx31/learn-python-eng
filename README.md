@@ -49,8 +49,7 @@ It covers everything from basic syntax to essential features, organized by topic
 > A collection of useful resources including error solutions, library introductions, and other development aids.
 - [FinanceDataReader - How to Fetch Financial Data](https://github.com/zenithx31/learn-python-eng/blob/main/utilities/financedatareader.md)
 - [Telethon - How to Scrape Telegram Chatrooms](https://github.com/zenithx31/learn-python-eng/blob/main/utilities/telethon.md)
-- [
-
+- [Datetime - How to Work with Dates and Times](https://github.com/zenithx31/learn-python-eng/blob/main/utilities/datetime.md)
 
 ---
 
