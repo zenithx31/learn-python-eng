@@ -31,6 +31,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Program Input and Output](https://github.com/zenithx31/learn-python-eng/blob/main/program_input_output.md)
 - [File Reading and Writing](https://github.com/zenithx31/learn-python-eng/blob/main/file_reading_writing.md)
 - [How to Write and Use Classes](https://github.com/zenithx31/learn-python-eng/blob/main/class_examples.md)
+- [Basic Numpy Syntax and Examples](https://github.com/zenithx31/learn-python-eng/blob/main/numpy_syntax_examples.md)
 
 ---
 
