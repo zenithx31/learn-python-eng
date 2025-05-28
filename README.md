@@ -38,6 +38,7 @@ It covers everything from basic syntax to essential features, organized by topic
 ### 📐 NumPy
 - [Syntax and Examples](https://github.com/zenithx31/learn-python-eng/blob/main/numpy/syntax_examples.md)
 - [Using datetime64 for Date and Time](https://github.com/zenithx31/learn-python-eng/blob/main/numpy/datetime64.md)
+- [1D and 2D Arrays](https://github.com/zenithx31/learn-python-eng/blob/main/numpy/arrays.md)
 
 ### 🐼 Pandas
 - [DataFrame](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/dataframe.md)
