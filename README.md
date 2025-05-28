@@ -40,7 +40,7 @@ It covers everything from basic syntax to essential features, organized by topic
 
 ### 🐼 Pandas
 - [DataFrame](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/dataframe.md)
-- [Accessing DataFrame Columns & Statistical Info]((https://github.com/zenithx31/learn-python-eng/blob/main/pandas/accessing_columns_statisticalinfo.md))
+- [Accessing DataFrame Columns & Statistical Info](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/accessing_columns_statisticalinfo.md)
 
 ---
 
