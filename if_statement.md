@@ -1,6 +1,6 @@
-# Python Control Statements - `if` Statements
+# Python Control Statements - `if` Statement
 
-## 📚 Basics of `if` Statements
+## 📚 Basics of `if` Statement
 
 In Python, the `if` statement allows you to execute code only when a specific condition is met.  
 It is an essential syntax that enables your program to behave differently depending on the situation.
