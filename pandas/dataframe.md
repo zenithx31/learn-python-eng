@@ -1,4 +1,4 @@
-# Pandas - DataFrame
+# Pandas DataFrame
 
 📚 **What is Pandas?**
 
