@@ -29,6 +29,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Functions](https://github.com/zenithx31/learn-python-eng/blob/main/functions.md)
 - [User Input and Output](https://github.com/zenithx31/learn-python-eng/blob/main/user_input_output.md)
 - [Program Input and Output](https://github.com/zenithx31/learn-python-eng/blob/main/program_input_output.md)
+- [File Reading and Writing](https://github.com/zenithx31/learn-python-eng/blob/main/file_reading_writing.md)
 
 ---
 
