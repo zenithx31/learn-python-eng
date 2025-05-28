@@ -17,6 +17,7 @@ It covers everything from basic syntax to essential features, organized by topic
 ## 📂 Table of Contents
 > New content is being added regularly.
 
+### 🧮 Python Basics
 - [Numeric Types](https://github.com/zenithx31/learn-python-eng/blob/main/numeric_types.md)  
 - [String Types](https://github.com/zenithx31/learn-python-eng/blob/main/string_types.md)
 - [List Types](https://github.com/zenithx31/learn-python-eng/blob/main/list_types.md)
@@ -33,8 +34,12 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Program Input and Output](https://github.com/zenithx31/learn-python-eng/blob/main/program_input_output.md)
 - [File Reading and Writing](https://github.com/zenithx31/learn-python-eng/blob/main/file_reading_writing.md)
 - [How to Write and Use Classes](https://github.com/zenithx31/learn-python-eng/blob/main/class_examples.md)
-- [Basic Numpy Syntax and Examples](https://github.com/zenithx31/learn-python-eng/blob/main/numpy/numpy_syntax_examples.md)
-- 
+
+### 📦 NumPy
+- [Syntax and Examples](https://github.com/zenithx31/learn-python-eng/blob/main/numpy/syntax_examples.md)
+
+### 🐼 Pandas
+- [DataFrame](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/dataframe.md)
 
 ---
 
