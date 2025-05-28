@@ -7,7 +7,7 @@ In Python, you can generate random numbers using the `random` module.
 
 ---
 
-## 1. How to Generate a Float Between 0 and 1
+### 1. How to Generate a Float Between 0 and 1
 
 The function `random.random()` returns a random floating-point number between 0 and 1.
 
@@ -23,7 +23,7 @@ This value changes every time you run the code, so you get a different number on
 
 ---
 
-## 2. How to Generate a Random Integer Within a Range
+### 2. How to Generate a Random Integer Within a Range
 
 The function `random.randint(a, b)` returns a random integer between `a` and `b` (both inclusive).  
 That means the generated number can be equal to either `a` or `b`.
