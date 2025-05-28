@@ -46,6 +46,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Operations Between Pandas Objects](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/operations_between_objects.md)
 - [Operations Within Pandas Objects](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/operations_within_objects.md)
 - [How to Display the Full DataFrame](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/dataframe2.md)
+- [Working with Dates and Times](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/dates_times.md)
 
 ### 🛠️ Utilities
 > A collection of useful resources including error solutions, library introductions, and other development aids.
