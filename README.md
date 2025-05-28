@@ -48,6 +48,7 @@ It covers everything from basic syntax to essential features, organized by topic
 ### 🛠️ Utilities
 > A collection of useful resources including error solutions, library introductions, and other development aids.
 - [How to Fetch Financial Data Using the FinanceDataReader Library](https://github.com/zenithx31/learn-python-eng/blob/main/utilities/financedatareader.md)
+- [How to Scrape Telegram Chatrooms Using the Telethon Library](https://github.com/zenithx31/learn-python-eng/blob/main/utilities/telethon.md)
 
 
 ---
