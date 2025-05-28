@@ -1,4 +1,4 @@
-# Python Control Flow - while Statement
+# Python Control Statements - `while` Statement
 
 ## 📚 Basics of while Loop
 
