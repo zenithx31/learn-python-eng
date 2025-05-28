@@ -1,13 +1,13 @@
 # Pandas DataFrame
 
-📚 **What is Pandas?**
+## 📚 What is Pandas?
 
 Pandas is a Python library for data analysis and manipulation.  
 It provides a powerful data structure called the **DataFrame**, similar to Excel tables, making data handling easier and more efficient.
 
 ---
 
-📚 **Creating a DataFrame**
+## 📚 Creating a DataFrame
 
 Let's create a simple DataFrame.
 
@@ -44,7 +44,7 @@ row10    19    20
 
 ---
 
-📚 **Displaying a DataFrame**
+# 📚 Displaying a DataFrame
 
 ### 1. Display top rows (`head()`)
 
@@ -69,7 +69,7 @@ print(df.sample(5))     # Five random rows
 
 ---
 
-📚 **Basic DataFrame Information**
+## 📚 Basic DataFrame Information
 
 ### 1. Index (`index`)
 
@@ -154,7 +154,7 @@ memory usage: 240.0+ bytes
 
 ---
 
-📚 **Checking for Missing Values (Null)**
+## 📚 Checking for Missing Values (Null)
 
 Missing values refer to data that is absent or not recorded.  
 You can check for them using `isnull()`.
