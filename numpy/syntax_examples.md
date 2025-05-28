@@ -1,6 +1,6 @@
 # Basic Numpy Syntax and Examples
 
-📚 What is Numpy?
+## 📚 What is Numpy?
 
 Numpy stands for "Numeric Python".  
 It is a powerful Python library used for numerical computing.  
@@ -12,7 +12,7 @@ It is widely used in linear algebra, scientific computations, and data analysis.
 
 ---
 
-📚 np.array()
+## 📚 np.array()
 
 `np.array()` is used to create an `ndarray`, which is the core data structure of Numpy.
 
@@ -64,7 +64,7 @@ print(mat.shape)  # (2, 3)
 
 ---
 
-📚 Initializing Arrays
+## 📚 Initializing Arrays
 
 Numpy provides various methods for easy array initialization.
 
@@ -123,7 +123,7 @@ print(random)
 
 ---
 
-📚 np.arange()
+## 📚 np.arange()
 
 `np.arange()` creates an array with evenly spaced values in a given range.
 
@@ -148,7 +148,7 @@ print(range_step_vec)
 
 ---
 
-📚 np.reshape()
+## 📚 np.reshape()
 
 `np.reshape()` changes the shape of an array without altering its data.
 
@@ -161,7 +161,7 @@ print(reshape)
 
 ---
 
-📚 Numpy Slicing
+## 📚 Numpy Slicing
 
 You can extract parts of an array using slicing.
 
@@ -185,7 +185,7 @@ print(slice_mat2)
 
 ---
 
-📚 Integer Indexing
+## 📚 Integer Indexing
 
 Access or extract values from specific positions using integer indexing.
 
@@ -208,7 +208,7 @@ print(index_mat)
 
 ---
 
-📚 Numpy Operations
+## 📚 Numpy Operations
 
 Numpy allows simple and efficient element-wise operations on arrays.
 
