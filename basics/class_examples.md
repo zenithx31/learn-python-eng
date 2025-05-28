@@ -1,6 +1,6 @@
 # How to Write and Use Classes in Python
 
-📚 Basic Structure of a Class
+## 📚 Basic Structure of a Class
 
 A class is defined using the `class` keyword. Inside a class, you can define attributes (data) and methods (functions).
 
@@ -57,7 +57,7 @@ c2.method2()
 
 ---
 
-📚 Practical Example: Children's Height
+## 📚 Practical Example: Children's Height
 
 Example:
 
