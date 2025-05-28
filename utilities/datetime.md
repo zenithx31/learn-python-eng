@@ -1,6 +1,6 @@
 # How to Work with Dates and Times Using the datetime Library in Python
 
-📚 What is datetime?
+## 📚 What is datetime?
 
 The datetime module is a standard Python library that provides various functions to handle dates and times.  
 It is especially useful for processing time series data or performing time-related calculations.
@@ -16,7 +16,7 @@ It is especially useful for processing time series data or performing time-relat
 
 ---
 
-📚 Data Type Conversion (string ↔ datetime)
+## 📚 Data Type Conversion (string ↔ datetime)
 
 1. **Converting a string to datetime**
 
