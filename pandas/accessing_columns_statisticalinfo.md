@@ -64,8 +64,8 @@ Output:
 4       50       45  
 ```
 
-> ✅ Dot notation only works for single columns  
-> ✅ Use double brackets `[[]]` to select multiple columns
+> Dot notation only works for single columns  
+> Use double brackets `[[]]` to select multiple columns
 
 ---
 
