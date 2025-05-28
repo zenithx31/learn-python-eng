@@ -23,7 +23,8 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Set Types](https://github.com/zenithx31/learn-python-eng/blob/main/set_types.md)
 - [Boolean Types](https://github.com/zenithx31/learn-python-eng/blob/main/boolean_types.md)
 - [Variables](https://github.com/zenithx31/learn-python-eng/blob/main/variables.md)
-- [if Statements](https://github.com/zenithx31/learn-python-eng/blob/main/if_statements.md)
+- [if Statement](https://github.com/zenithx31/learn-python-eng/blob/main/if_statement.md)
+- [while Statement](https://github.com/zenithx31/learn-python-eng/blob/main/while_statement.md)
 
 ---
 
