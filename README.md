@@ -24,8 +24,8 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Boolean Types](https://github.com/zenithx31/learn-python-eng/blob/main/boolean_types.md)
 - [Variables](https://github.com/zenithx31/learn-python-eng/blob/main/variables.md)
 - [if Statement](https://github.com/zenithx31/learn-python-eng/blob/main/if_statement.md)
-- [while Statement](https://github.com/zenithx31/learn-python-eng/blob/main/while_statement.md)
-- [for Statement](https://github.com/zenithx31/learn-python-eng/blob/main/for_statement.md)
+- [while Loop](https://github.com/zenithx31/learn-python-eng/blob/main/while_loop.md)
+- [for Loop](https://github.com/zenithx31/learn-python-eng/blob/main/for_loop.md)
 
 ---
 
