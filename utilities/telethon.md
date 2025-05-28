@@ -1,4 +1,4 @@
-# Scraping Telegram Chatrooms Using Telethon
+# How to Scrape Telegram Chatrooms Using the Telethon Library
 
 📚 What is Telethon?
 
