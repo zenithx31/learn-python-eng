@@ -6,7 +6,7 @@ In pandas, you can easily perform various operations between objects like DataFr
 
 ---
 
-## 1) Creating a Sample DataFrame
+### 1) Creating a Sample DataFrame
 
 Let's create a simple DataFrame first.
 
