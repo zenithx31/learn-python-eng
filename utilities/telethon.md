@@ -1,6 +1,6 @@
 # How to Scrape Telegram Chatrooms Using the Telethon Library
 
-📚 What is Telethon?
+## 📚 What is Telethon?
 
 Telethon is a Telegram API client library written in Python.  
 It allows direct communication with Telegram servers to automate various tasks such as sending and receiving messages, managing chatrooms, and more.  
@@ -8,7 +8,7 @@ It supports asynchronous (async) operations, making it efficient for handling la
 
 ---
 
-📚 Obtaining Telegram API ID and Hash
+## 📚 Obtaining Telegram API ID and Hash
 
 To get a Telegram API ID and Hash, you must have a Telegram account. If you do, you can obtain them from the link below:
 
@@ -16,7 +16,7 @@ https://my.telegram.org/auth?to=apps
 
 ---
 
-📚 Example: Scraping Telegram Chatrooms
+## 📚 Example: Scraping Telegram Chatrooms
 
 To use Telethon, you need to have Python and pip installed first.
 
