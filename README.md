@@ -26,6 +26,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [if Statement](https://github.com/zenithx31/learn-python-eng/blob/main/if_statement.md)
 - [while Loop](https://github.com/zenithx31/learn-python-eng/blob/main/while_loop.md)
 - [for Loop](https://github.com/zenithx31/learn-python-eng/blob/main/for_loop.md)
+- [Functions](https://github.com/zenithx31/learn-python-eng/blob/main/functions.md)
 
 ---
 
