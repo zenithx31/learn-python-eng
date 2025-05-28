@@ -35,7 +35,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [File Reading and Writing](https://github.com/zenithx31/learn-python-eng/blob/main/bascis/file_reading_writing.md)
 - [How to Write and Use Classes](https://github.com/zenithx31/learn-python-eng/blob/main/bascis/class_examples.md)
 
-### 📦 NumPy
+### 📐 NumPy
 - [Syntax and Examples](https://github.com/zenithx31/learn-python-eng/blob/main/numpy/syntax_examples.md)
 
 ### 🐼 Pandas
