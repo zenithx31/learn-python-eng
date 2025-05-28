@@ -28,6 +28,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [for Loop](https://github.com/zenithx31/learn-python-eng/blob/main/for_loop.md)
 - [Functions](https://github.com/zenithx31/learn-python-eng/blob/main/functions.md)
 - [User Input and Output](https://github.com/zenithx31/learn-python-eng/blob/main/user_input_output.md)
+- [Program Input and Output](https://github.com/zenithx31/learn-python-eng/blob/main/program_input_output.md)
 
 ---
 
