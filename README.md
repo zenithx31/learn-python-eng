@@ -45,6 +45,10 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Operations Between Pandas Objects](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/operations_between_objects.md)
 - [Operations Within Pandas Objects](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/operations_within_objects.md)
 
+### 🛠️ Utilities
+> A collection of useful resources including error solutions, library introductions, and other development aids.
+- [How to Fetch Financial Data Using the FinanceDataReader Library](https://github.com/zenithx31/learn-python-eng/blob/main/utilities/financedatareader.md)
+
 
 ---
 
