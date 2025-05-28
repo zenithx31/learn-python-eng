@@ -55,6 +55,7 @@ It covers everything from basic syntax to essential features, organized by topic
 - [Telethon - How to Scrape Telegram Chatrooms](https://github.com/zenithx31/learn-python-eng/blob/main/utilities/telethon.md)
 - [Datetime - How to Work with Dates and Times](https://github.com/zenithx31/learn-python-eng/blob/main/utilities/datetime.md)
 - [Random - How to Generate Random Numbers](https://github.com/zenithx31/learn-python-eng/blob/main/utilities/random.md)
+- [Matplotlib - Installing and Using Matplotlib](https://github.com/zenithx31/learn-python-eng/blob/main/utilities/matplotlib.md)
 
 ---
 
