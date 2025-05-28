@@ -1,12 +1,12 @@
 # Operations Within Pandas Objects
 
-📚 Operations Within Objects
+## 📚 Operations Within Objects
 
 In Pandas, you can easily perform various operations on DataFrame objects.
 
 ---
 
-## Creating an Example DataFrame
+### Creating an Example DataFrame
 
 ```python
 import pandas as pd
