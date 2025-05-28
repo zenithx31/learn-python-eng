@@ -42,6 +42,8 @@ It covers everything from basic syntax to essential features, organized by topic
 - [DataFrame](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/dataframe.md)
 - [Accessing DataFrame Columns & Statistical Info](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/accessing_columns_statisticalinfo.md)
 - [Conditional Logic, Operators, and Sorting](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/conditional_logic_operators_sorting.md)
+- [Operations Between Pandas Objects](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/operations_between_objects.md)
+- [Operations Within Pandas Objects](https://github.com/zenithx31/learn-python-eng/blob/main/pandas/operations_within_objects.md)
 
 
 ---
