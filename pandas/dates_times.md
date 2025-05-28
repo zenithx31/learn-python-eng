@@ -1,13 +1,13 @@
 # Working with Dates and Times in Pandas
 
-📚 Handling Dates and Times in Pandas: Timestamp, DatetimeIndex, Period
+## 📚 Handling Dates and Times in Pandas: Timestamp, DatetimeIndex, Period
 
 Pandas offers various functions to work with date and time data.  
 Objects like Timestamp, DatetimeIndex, and Period are very useful for processing and analyzing date and time information.
 
 ---
 
-📚 Timestamp
+## 📚 Timestamp
 
 A Timestamp represents a single date and time in Pandas.  
 It is similar to numpy’s datetime64 but offers more convenient features.
@@ -31,7 +31,7 @@ print(example2)
 
 ---
 
-📚 DatetimeIndex
+## 📚 DatetimeIndex
 
 DatetimeIndex is useful when handling multiple dates, allowing you to manage many dates as a single index.
 
@@ -73,7 +73,7 @@ print(example)
 
 ---
 
-📚 Period and PeriodIndex
+## 📚 Period and PeriodIndex
 
 A Period represents a span of time rather than a specific moment.  
 For example, it can represent a month or a year, unlike Timestamp which represents a single point in time.
