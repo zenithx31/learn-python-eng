@@ -2,7 +2,7 @@
 
 ---
 
-📚 **Accessing DataFrame Columns**
+## 📚 Accessing DataFrame Columns
 
 There are several ways to access columns in a Pandas DataFrame.
 
@@ -69,7 +69,7 @@ Output:
 
 ---
 
-📚 **Statistical Information of a DataFrame**
+## 📚 Statistical Information of a DataFrame
 
 Pandas makes it easy to get statistical summaries of data.
 
