@@ -1,5 +1,7 @@
 # Learn Python 🐍
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zenithx31.learn-python-eng)
+<br>
+<br>
 This repository contains summarized concepts and code examples as I learn Python.  
 It covers everything from basic syntax to essential features, organized by topic and continuously updated.
 
